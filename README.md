@@ -34,8 +34,10 @@ The architecture diagram below details what you will be building for this Soluti
 
 ![Customer Complaint Management Architecture Diagram](./Deployment/Images/ArchDiagram.jpg "Customer Complaint Management Architecture Diagram")
 
-# Customer Complaint Dashboard
+## Customer Complaint Dashboard
 ![Customer Complaint Management Dashboard](./Deployment/Images/LandingPage.jpg "Customer Complaint Management Dashboard")
+
+
 ![Customer Complaint Management Dashboard Resolved](./Deployment/Images/ResolvedPage.jpg "Customer Complaint Management Dashboard Resolved")
 
 ## License
