@@ -5,9 +5,6 @@ languages:
 products:
 - azure-synapse-analytics
 - azure-machine-learning
-- azure-logic-apps
-- power-apps
-- azure-functions
 ---
 ![Azure-Solution-Accelerator-Customer-Complaint-Management](./Deployment/Images/ComplaintManagementSATitle.PNG)
 # Customer Complaint Management Solution Accelerator
