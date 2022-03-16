@@ -1,4 +1,16 @@
+---
+page_type: sample
+languages:
+- python
+products:
+- azure-synapse-analytics
+- azure-machine-learning
+- azure-logic-apps
+- power-apps
+- azure-functions
+---
 ![Azure-Solution-Accelerator-Customer-Complaint-Management](./Deployment/Images/ComplaintManagementSATitle.PNG)
+# Customer Complaint Management Solution Accelerator
 
 ## About this Repository 
 Responding to customer complaints and resolving them quickly is very important to improve the customer satisfaction and retention.
