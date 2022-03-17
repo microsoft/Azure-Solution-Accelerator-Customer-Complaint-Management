@@ -8,8 +8,6 @@ products:
 ---
 ![Azure-Solution-Accelerator-Customer-Complaint-Management](./Deployment/Images/ComplaintManagementSATitle.PNG)
 # Customer Complaint Management Solution Accelerator
-
-## About this Repository 
 Responding to customer complaints and resolving them quickly is very important to improve the customer satisfaction and retention.
 
 How can organization respond to these complaints coming through different traditional and modern feedback channels?
