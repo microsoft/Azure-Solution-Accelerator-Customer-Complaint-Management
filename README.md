@@ -1,6 +1,13 @@
+---
+page_type: sample
+languages:
+- python
+products:
+- azure-synapse-analytics
+- azure-machine-learning
+---
 ![Azure-Solution-Accelerator-Customer-Complaint-Management](./Deployment/Images/ComplaintManagementSATitle.PNG)
-
-## About this Repository 
+# Customer Complaint Management Solution Accelerator
 Responding to customer complaints and resolving them quickly is very important to improve the customer satisfaction and retention.
 
 How can organization respond to these complaints coming through different traditional and modern feedback channels?
